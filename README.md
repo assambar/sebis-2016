@@ -5,7 +5,7 @@ https://bitbucket.org/ogi/aspnetecommerce
 #Стъпки
 
 1. Подкарване на web site във Visual Studio
- - Създайте нов сайт - New > Web Site > Empty C# Web Site
+ - Създайте нов сайт - New > Web Site > Empty C# Web Site (НЕ ИЗПОЛЗВАЙТЕ New > Project > Web Site)
  - Копирайте кода от глава 03/BalloonShop във вашия проект през Windows Explorer
  - Refresh
  - Run
