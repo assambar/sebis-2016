@@ -28,7 +28,7 @@ https://bitbucket.org/ogi/aspnetecommerce
 4. Подкарване на потребителски account-и
  - Създайте нов сайт
  - Копирайте кода от глава 11/BalloonShop и го Refresh-нете
- - Изпълнете C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_regsql.exe за да добавите потребителски таблици към BalloonShop 
+ - Изпълнете <br/> `C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_regsql.exe` <br/> за да добавите потребителски таблици към BalloonShop 
  - Пуснете администриращото приложение на ASP.NET
  
           cd "C:\Program Files\IIS Express"
