@@ -31,8 +31,8 @@ https://bitbucket.org/ogi/aspnetecommerce
  - Изпълнете C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_regsql.exe за да добавите потребителски таблици към BalloonShop 
  - Пуснете администриращото приложение на ASP.NET
      
-     cd "C:\Program Files\IIS Express"
-	    iisexpress.exe /path:C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles /vpath:"/ASP.NETWebAdminFiles" /port:8082 /clr:4.0 /ntlm
+       cd "C:\Program Files\IIS Express"
+       iisexpress.exe /path:C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles /vpath:"/ASP.NETWebAdminFiles" /port:8082 /clr:4.0 /ntlm
 
  - В browser-а отворете следния URL 
    http://localhost:8082/ASP.NETWebAdminFiles/default.aspx?applicationPhysicalPath=C:\<PATH_TO_YOUR_PROJECT_FOLDER>&applicationUrl=/`
