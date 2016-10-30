@@ -1,7 +1,8 @@
 # SQL синтаксис.
 Трябва да можете да обясните какво прави коя да е от съхранените процедури в базата ви.
  - Базови знания за `SELECT`, `INSERT`, `UPDATE`, `FROM`, `WHERE`, `ORDER BY`, `JOIN`, etc.
-Обща представа какво правят следните фрагменти от заявки
+
+Да имате представа какво правят следните фрагменти от заявки
  - `CREATE PROCEDURE CatalogGetDepartments AS`
  - `	[DepartmentID] [int] IDENTITY(1,1) NOT NULL,`
  - `CONSTRAINT [PK_Department] PRIMARY KEY CLUSTERED (DepartmentID))`
