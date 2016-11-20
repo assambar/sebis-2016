@@ -2,6 +2,9 @@
 Свалете source кода от тук
 https://bitbucket.org/ogi/aspnetecommerce
 
+Тук има разни frequently asked questions
+http://tinyurl.com/sebis-faq
+
 #Стъпки
 
 1. Подкарване на web site във Visual Studio
